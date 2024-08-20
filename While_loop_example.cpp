@@ -8,6 +8,7 @@ using namespace std;
 
         cout<<"This is my first while loop program\n";
         cout<<"This program is supposed to use a while loop to print out numbers between 1~10.\n";
+        cout<<"This is mine";
 
         while(i>=1){
             cout<<i<<" ";
